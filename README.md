@@ -33,6 +33,7 @@ source venv/bin/activate
 3. Install the required packages:
 ```bash
 pip install -r requirements.txt
+pip install streamlit
 ```
 
 4. Run the application:
